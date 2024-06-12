@@ -1,0 +1,27 @@
+[2024-06-12 10:36:54] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-06-12 10:36:54] [1] [INFO] TEST [MobileTesting - checkout] STARTED at [12:36:54 2024-06-12]
+[2024-06-12 10:36:54] [1] [INFO] Starting driver session...
+[2024-06-12 10:36:59] [1] [INFO] Driver session started.
+[2024-06-12 10:36:59] [1] [INFO] INFO: opening url 'https://www.saucedemo.com/'
+[2024-06-12 10:37:01] [1] [INFO] Keys 'standard_user' are sent to element 'loginField'.
+[2024-06-12 10:37:01] [1] [INFO] Keys 'secret_sauce' are sent to element 'passwordField'.
+[2024-06-12 10:37:02] [1] [INFO] Element 'loginButton' is clicked.
+[2024-06-12 10:37:02] [1] [INFO] returned first but found 6 elements by locator: By.xpath: .//*[@class = 'btn btn_primary btn_small btn_inventory ']
+[2024-06-12 10:37:02] [1] [INFO] Element 'addToCartButton' is clicked.
+[2024-06-12 10:37:02] [1] [INFO] returned first but found 5 elements by locator: By.xpath: .//*[@class = 'btn btn_primary btn_small btn_inventory ']
+[2024-06-12 10:37:02] [1] [INFO] Element 'addToCartButton' is clicked.
+[2024-06-12 10:37:02] [1] [INFO] returned first but found 4 elements by locator: By.xpath: .//*[@class = 'btn btn_primary btn_small btn_inventory ']
+[2024-06-12 10:37:02] [1] [INFO] Element 'addToCartButton' is clicked.
+[2024-06-12 10:37:02] [1] [INFO] returned first but found 3 elements by locator: By.xpath: .//*[@class = 'btn btn_primary btn_small btn_inventory ']
+[2024-06-12 10:37:02] [1] [INFO] Element 'addToCartButton' is clicked.
+[2024-06-12 10:37:02] [1] [INFO] returned first but found 2 elements by locator: By.xpath: .//*[@class = 'btn btn_primary btn_small btn_inventory ']
+[2024-06-12 10:37:02] [1] [INFO] Element 'addToCartButton' is clicked.
+[2024-06-12 10:37:02] [1] [INFO] Element 'addToCartButton' is clicked.
+[2024-06-12 10:37:03] [1] [INFO] Element 'shoppingCartButton' is clicked.
+[2024-06-12 10:37:03] [1] [INFO] Element 'checkoutButton' is clicked.
+[2024-06-12 10:37:03] [1] [INFO] Keys 'John' are sent to element 'firstNameField'.
+[2024-06-12 10:37:03] [1] [INFO] Keys 'Doe' are sent to element 'lastNameField'.
+[2024-06-12 10:37:03] [1] [INFO] Keys '7343' are sent to element 'postalCodeField'.
+[2024-06-12 10:37:04] [1] [INFO] Element 'continueCheckoutButton' is clicked.
+[2024-06-12 10:37:04] [1] [INFO] Element 'completeOrderButton' is clicked.
+[2024-06-12 10:37:04] [1] [INFO] TEST [MobileTesting - checkout] PASSED at [12:37:04 2024-06-12]

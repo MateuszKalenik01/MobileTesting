@@ -1,0 +1,23 @@
+[2024-06-12 10:37:25] [1] [INFO] 
+=========== WebDriver configuration ===========
+url=https://www.saucedemo.com/
+selenium_url=http://localhost:4723
+-------------- Driver capabilities ------------
+noReset=true
+platformVersion=14.0
+automationName=UiAutomator2
+browserName=chrome
+unicodeKeyboard=true
+platformName=ANDROID
+deviceName=emulator-5556
+fullReset=false
+resetKeyboard=true
+===============================================
+
+[2024-06-12 10:37:26] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-06-12 10:37:26] [1] [INFO] [TestNG] Running:
+  /Users/mateuszkalenik/Library/Caches/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+[2024-06-12 10:37:26] [1] [INFO] Set thread-count=1
+[2024-06-12 10:37:26] [1] [INFO] Set data-provider-thread-count=1
+[2024-06-12 10:37:26] [1] [INFO] CARINA_CORE_VERSION: 1.2.10

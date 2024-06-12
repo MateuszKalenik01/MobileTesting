@@ -1,0 +1,27 @@
+[2024-06-12 10:36:25] [1] [INFO] 
+=========== WebDriver configuration ===========
+url=https://www.saucedemo.com/
+selenium_url=http://localhost:4723
+-------------- Driver capabilities ------------
+noReset=true
+platformVersion=14.0
+automationName=UiAutomator2
+browserName=chrome
+unicodeKeyboard=true
+platformName=ANDROID
+deviceName=emulator-5556
+fullReset=false
+resetKeyboard=true
+===============================================
+
+[2024-06-12 10:36:25] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-06-12 10:36:26] [1] [INFO] [TestNG] Running:
+  /Users/mateuszkalenik/Library/Caches/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+[2024-06-12 10:36:26] [1] [INFO] Set thread-count=1
+[2024-06-12 10:36:26] [1] [INFO] Set data-provider-thread-count=1
+[2024-06-12 10:36:26] [1] [INFO] CARINA_CORE_VERSION: 1.2.10
+[2024-06-12 10:37:04] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2024-06-12 10:37:04] [1] [INFO] RESULT #1: TEST [MobileTesting - ProductSorting] PASS [log=file:///Users/mateuszkalenik/IdeaProjects/MobileTesting/reports/1718188585134/8c446d97-b938-4ff9-bd3a-b8dbabf07eaf/test.log]
+[2024-06-12 10:37:04] [1] [INFO] RESULT #2: TEST [MobileTesting - addItemsToCart] PASS [log=file:///Users/mateuszkalenik/IdeaProjects/MobileTesting/reports/1718188585134/dde8ded3-70b3-442b-84cf-3cf91547076a/test.log]
+[2024-06-12 10:37:04] [1] [INFO] RESULT #3: TEST [MobileTesting - checkout] PASS [log=file:///Users/mateuszkalenik/IdeaProjects/MobileTesting/reports/1718188585134/ce61277f-b9d4-42bb-a25b-5572dbcab9f6/test.log]
